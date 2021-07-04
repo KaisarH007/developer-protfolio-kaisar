@@ -23,11 +23,12 @@ h2{
 }
 .link-button{
     text-decoration:none;
-   background-image: linear-gradient(rgb(255, 60, 0), cyan);
+   background-image: linear-gradient(rgb(255, 60, 0), rgb(255, 115, 0));
    padding: 10px 40px;
    border-radius: 10px;
    color: white;
-   font-weight: 700;
+   font-weight: 900;
+   font-size: 1.1em;
 }
 
 .top-banner{
@@ -36,7 +37,7 @@ h2{
 }
 .link-button2{
     text-decoration:none;
-   background-image: linear-gradient(red,green);
+   background-image: linear-gradient(red,rgb(231, 119, 28));
    padding: 10px 40px;
    border-radius: 10px;
    color: rgb(243, 240, 240);
@@ -62,7 +63,7 @@ h2{
 }
 #full-stack-experiance{
     border-left: 7px solid;
-   border-image:linear-gradient(red,cyan);
+   border-image:linear-gradient(red,rgb(238, 100, 8));
     border-image-slice: 1; 
 }
 #web-developer{
